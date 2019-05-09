@@ -33,7 +33,7 @@ $(document).ready(function(){
         $(this).addClass("active");
 
         var type = $(this).attr("data-type");
-        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + type + "&api_key=dc6zaTOxFJmzC&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + type + "&api_key=0KD1SkIQ1KHqEo4oHcNXMM1kZ4LvTZoK&limit=10";
         
         //AJAX CALL
 
